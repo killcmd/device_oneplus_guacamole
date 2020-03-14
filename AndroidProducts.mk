@@ -5,8 +5,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_guacamole.mk
+    $(LOCAL_DIR)/aosp_guacamole.mk
 
 COMMON_LUNCH_CHOICES :=\
-potato_guacamole-userdebug \
-potato_guacamole-eng
+aosp_guacamole-userdebug \
+aosp_guacamole-eng
